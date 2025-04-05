@@ -1,5 +1,13 @@
 ## Hi there Im Desiree
 
+Web developer  and  mobile  app  developer, currently  working  on  a  sustainable restaurant  locater.
+
+Learning  CSS, Python, Javascript  and  backend  frameworks
+
+Looking  to collaborate  on  frontend frameworks, projects
+
+Help  needed  in  angular, terminals, responsive  web  design
+
 <!--
 **Githublab66/Githublab66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

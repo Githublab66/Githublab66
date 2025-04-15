@@ -19,4 +19,7 @@ Hello, my name is  Desiree a web developer and a mobile app designer, <br>curren
 ---
 [![](https://visitcount.itsvg.in/api?id=Githublab66&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@perezdesy698182/30-nites-of-code)  
+  ![@perezdesy698182 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=perezdesy698182)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

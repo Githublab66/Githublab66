@@ -1,6 +1,8 @@
  💫 About Me:
  
-Hello, my name is  Desiree a web developer and a mobile app designer, <br>currently working on a sustainable restaurant locater<br><br>Learning CSS, Python, javascript and backend frameworks<br><br>Looking to collaborate  on  frontend frameworks, projects<br>
+Hello, my name is  Desiree a web developer and a Frontend developer. Passionate about mobile design and team collaboration.
+
+Proficient in Javascript, Html/css and Frameworks
 
 
 # 💻 Tech Stack:
